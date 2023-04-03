@@ -1,0 +1,9 @@
+{
+  "token": "MTA5MTM5NzcyMTM3NTY1ODAwNQ.GE-YI2.1xWZ1W9MnjQXMHF-Q4w7NnfO9AzhrIHwEa10Is",
+  "api_key": "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",
+  "prefix": "//",
+  "link": "https://discord.com/oauth2/authorize?client_id=1091397721375658005&scope=bot&permissions=1099511627775",
+  "allowedServersList": [
+    "452158560734937108", "1058897948731256832"
+  ]
+}
